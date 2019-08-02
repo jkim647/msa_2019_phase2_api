@@ -1,0 +1,14 @@
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\bin\Debug\netcoreapp2.2\YouTubeAPI.deps.json
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\bin\Debug\netcoreapp2.2\YouTubeAPI.runtimeconfig.json
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\bin\Debug\netcoreapp2.2\YouTubeAPI.runtimeconfig.dev.json
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\bin\Debug\netcoreapp2.2\YouTubeAPI.dll
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\bin\Debug\netcoreapp2.2\YouTubeAPI.pdb
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.csprojAssemblyReference.cache
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.RazorAssemblyInfo.cache
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.RazorAssemblyInfo.cs
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.AssemblyInfoInputs.cache
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.AssemblyInfo.cs
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.dll
+C:\Users\Jungsup\source\repos\YouTubeAPI\YouTubeAPI\obj\Debug\netcoreapp2.2\YouTubeAPI.pdb

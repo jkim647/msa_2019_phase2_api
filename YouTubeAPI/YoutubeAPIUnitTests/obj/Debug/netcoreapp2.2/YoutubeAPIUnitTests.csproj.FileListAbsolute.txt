@@ -1,0 +1,17 @@
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YoutubeAPIUnitTests.deps.json
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YoutubeAPIUnitTests.runtimeconfig.json
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YoutubeAPIUnitTests.runtimeconfig.dev.json
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YoutubeAPIUnitTests.dll
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YouTubeAPI.dll
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YouTubeAPI.pdb
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.csprojAssemblyReference.cache
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.AssemblyInfoInputs.cache
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.AssemblyInfo.cs
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.csproj.CopyComplete
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\bin\Debug\netcoreapp2.2\YoutubeAPIUnitTests.pdb
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.dll
+C:\Users\Jungsup\Desktop\msa_yt_api\YouTubeAPI\YoutubeAPIUnitTests\obj\Debug\netcoreapp2.2\YoutubeAPIUnitTests.pdb
